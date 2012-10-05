@@ -1,0 +1,8 @@
+[Bb]in
+[Oo]bj
+*.DotSettings.user
+*.csproj.user
+_ReSharper.*/
+*.sln.cache
+*.suo
+/packages/
